@@ -1,3 +1,3 @@
-```typescript
-let value = 0;
-```
+- [ ] Turn on Github Pages
+- [ ] Testing the markdown file
+- [x] Play Fred's Again music

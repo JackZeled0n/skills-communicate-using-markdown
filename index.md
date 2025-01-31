@@ -1,6 +1,1 @@
-# Test
-## Test
-### Test
-#### Test
-##### Test
-###### Test
+![Testing image](https://octodex.github.com/images/yaktocat.png)
